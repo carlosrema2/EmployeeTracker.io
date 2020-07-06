@@ -1,0 +1,27 @@
+{
+  "name": "EmployeeTracker.io",
+  "version": "1.0.0",
+  "description": "EmployeeTracker.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosrema2/EmployeeTracker.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosrema2/EmployeeTracker.io/issues"
+  },
+  "homepage": "https://github.com/carlosrema2/EmployeeTracker.io#readme",
+  "dependencies": {
+    "console": "^0.7.2",
+    "express": "^4.17.1",
+    "inquirer": "^7.3.0",
+    "mysql": "^2.18.1",
+    "table": "^5.4.6"
+  }
+}
